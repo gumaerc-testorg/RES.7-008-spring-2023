@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-7-008-7-28x-molecular-biology/res7-008.jpg
-file_size: ''
+file_size: 40018
 file_type: image/jpeg
 image_metadata:
   caption: Embark on this in-depth adventure through DNA replication and repair to
