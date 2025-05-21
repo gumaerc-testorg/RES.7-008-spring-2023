@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-7-008-7-28x-molecular-biology/res7-008.jpg
+file: courses/728x-molecular-biology/res7-008.jpg
 file_size: 40018
 file_type: image/jpeg
 image_metadata:
